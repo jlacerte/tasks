@@ -1,5 +1,3 @@
-/* pasted from Notes tutorial */
-
 <?php
 namespace OCA\OwnNotes\Controller;
 
